@@ -80,3 +80,7 @@
 
 ## User Trust & Ethics
 - Immediate deletion after processing speech transcription.
+
+
+##DEMO Video
+https://drive.google.com/file/d/1ySUDMsItClW0wXAk5010xfMbLfZnION6/view?usp=sharing
